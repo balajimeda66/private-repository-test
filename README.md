@@ -1,2 +1,2 @@
 # private-repository-test
-Great repository names are short and memorable. Need inspiration
+https://github.com/balajimeda66/private-repository-test
